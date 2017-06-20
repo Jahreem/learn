@@ -5,3 +5,4 @@ Python Learning Plan
 3. Look into pandas library
 4. Learn how to import excel sheets
 5. Learn signal processing in Numpy
+6. On github fam.
